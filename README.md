@@ -23,6 +23,6 @@ gain factors. write the new value of the variable then run the 'RunMe' to see th
 
 
 
-•One of the required outputs is an error plot depicted below.
+•One of the required outputs is a control error plot depicted below.
 
 ![Error Plot - Best](https://user-images.githubusercontent.com/72637753/111034390-0d2efa80-841e-11eb-82fb-2a392707b7f7.jpg)
