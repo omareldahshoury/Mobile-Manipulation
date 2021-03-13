@@ -19,3 +19,7 @@ Link to the final simulation output on youtube https://youtu.be/6A4LB7m7yrs
 gain factors. write the new value of the variable then run the 'RunMe' to see the new results.
 
 •	Limitations on Joint and wheel speeds was implemented in this project.
+
+
+One of the required outputs is an error plot depicted below.
+[Error Plot - Best.pdf](https://github.com/omareldahshoury/Mobile-Manipulation/files/6134983/Error.Plot.-.Best.pdf)
