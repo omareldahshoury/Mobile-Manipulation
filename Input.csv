@@ -1,0 +1,17 @@
+Configuration Vector,,,,,,,,,,,,
+Chassis Phi,Chassis x,Chassis y,J1,J2,J3,J4,J5,W1,W2,W3,W4,gripper state
+0.7,-0.3,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Kp,Ki,,,,,,,,,,,
+3,1,,,,,,,,,,,
+,,,,,,,,,,,,
+Time Step,Speed Limit,,,,,,,,,,,
+0.01,7.853981634,,,,,,,,,,,
+,,,,,,,,,,,,
+#Initial cube configuration,,,,,,,,,,,,
+x,y,theta(about z-axis),,,,,,,,,,
+1.5,0.5,0,,,,,,,,,,
+#Final cube configuration,,,,,,,,,,,,
+x,y,theta(about z-axis),,,,,,,,,,
+1.5,-1.25,-1.047197551,,,,,,,,,,
