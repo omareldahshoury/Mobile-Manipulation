@@ -1,7 +1,7 @@
 # Mobile-Manipulation
 This project was the capstone project in the "Modern Robotics: Mechanics, Planning, and Control Specialization" offered on Coursera by Kevin Lynch.
   
-The main aim was to develop a controller for an omnidirectional drive platform with a manipulator attached on top. The main task is a pick and place of a cube, whose start and end coordinates could be adjusted form the "input.csv" excel sheet.  
+The main aim was to develop a controller for an omnidirectional drive platform with a manipulator attached on top. Robot's main task was to pick and place a cube, whose start and end coordinates could be adjusted form the "input.csv" excel sheet.  
 
 •	This Code consists of Main files (developed by myself) and supplementary files taken from the MR course library. 
 •	To run the code, all coding files should  be in one directory. Now, run the 'RunMe' matlab code.
